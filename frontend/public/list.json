@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title": "Lorem, ipsum dolor sit amet consectuer aipisicising elit.",
+        "price":0 ,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-word-word-top_583952-80797.jpg?ga=GA1.1.253004873.1723917213&semt=ais_hybrid"
+
+
+    },
+    {
+        "id":2,
+        "name":"Comedy Book",
+        "title": "Lorem, ipsum dolor sit amet consectuer aipisicising elit.",
+        "price":20 ,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-word-word-top_583952-80797.jpg?ga=GA1.1.253004873.1723917213&semt=ais_hybrid"
+
+
+    },
+    {
+        "id":3,
+        "name":"Sports Book",
+        "title": "Lorem, ipsum dolor sit amet consectuer aipisicising elit.",
+        "price":50 ,
+        "category":"Sports",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-word-word-top_583952-80797.jpg?ga=GA1.1.253004873.1723917213&semt=ais_hybrid"
+
+
+    },
+    {
+        "id":4,
+        "name":"Music Book",
+        "title": "Lorem, ipsum dolor sit amet consectuer aipisicising elit.",
+        "price":40 ,
+        "category":"Music",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-word-word-top_583952-80797.jpg?ga=GA1.1.253004873.1723917213&semt=ais_hybrid"
+
+
+    },
+    {
+        "id":5,
+        "name":"Food Book",
+        "title": "Lorem, ipsum dolor sit amet consectuer aipisicising elit.",
+        "price":0 ,
+        "category":"Food",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-word-word-top_583952-80797.jpg?ga=GA1.1.253004873.1723917213&semt=ais_hybrid"
+
+
+    },
+    {
+        "id":6,
+        "name":"Spiritual Book",
+        "title": "Lorem, ipsum dolor sit amet consectuer aipisicising elit.",
+        "price":0 ,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-word-word-top_583952-80797.jpg?ga=GA1.1.253004873.1723917213&semt=ais_hybrid"
+
+
+    },
+    {
+        "id":7,
+        "name":"Spiritual Book",
+        "title": "Lorem, ipsum dolor sit amet consectuer aipisicising elit.",
+        "price":0 ,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-word-word-top_583952-80797.jpg?ga=GA1.1.253004873.1723917213&semt=ais_hybrid"
+
+
+    },
+    {
+        "id":8,
+        "name":"Spiritual Book",
+        "title": "Lorem, ipsum dolor sit amet consectuer aipisicising elit.",
+        "price":0 ,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-word-word-top_583952-80797.jpg?ga=GA1.1.253004873.1723917213&semt=ais_hybrid"
+
+
+    },
+    {
+        "id":9,
+        "name":"Spiritual Book",
+        "title": "Lorem, ipsum dolor sit amet consectuer aipisicising elit.",
+        "price":0 ,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/stack-books-with-word-word-top_583952-80797.jpg?ga=GA1.1.253004873.1723917213&semt=ais_hybrid"
+
+
+    }
+]
